@@ -1,0 +1,36 @@
+body {
+    background:white;
+}
+#topo{
+    text-align: center;
+    border-style:inset;
+    border-color: darksalmon;
+}
+#conteudo{
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: moccasin;
+    text-shadow: paleturquoise;
+    border-style:inset;
+    border-color: darksalmon;
+}
+
+#rodape{
+    background-color: moccasin;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-style:inset;
+    border-color: darksalmon;
+}
+ul{
+    text-align:justify
+}
+#titulo{
+    text-align: center;
+    font-size: medium;
+    font-weight: 600;
+    background-color: moccasin;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-style:inset;
+    border-color: darksalmon;
+}
